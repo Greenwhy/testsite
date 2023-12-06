@@ -9,3 +9,4 @@ while($row = mysqli_fetch_assoc($result)){
     echo "<img src=" .$row[img]. ">";
     
 }
+?>
